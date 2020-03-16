@@ -27,7 +27,3 @@ func TestService_Hash(t *testing.T) {
 		t.Error("expected false from Validate")
 	}
 }
-
-func TestService_Validate(t *testing.T) {
-
-}
